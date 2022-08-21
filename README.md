@@ -19,7 +19,7 @@ I'm Hugo Kindel, also known as Forx. I've been around computers my whole life, i
 <h2>📈 For any inquiries</h2>
 
 <p align="center">
-  You can contact me at <a href="mailto:me@hugokindel.xyz?subject=Hello from GitHub!">me@hugokindel.xyz</a>!
+  You can contact me at <a href="mailto:me@hugokindel.xyz?subject=Hello from GitHub!">me@hugokindel.com</a>!
   <br>
   I'd love to hear from you!
 </p>
