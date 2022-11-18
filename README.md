@@ -12,7 +12,6 @@ I'm Hugo Kindel, also known as Forx. I've been around computers my whole life, i
 
 - 👨‍💻 10 years of programming experience.
 - 📚 Currently studying at [EFREI Paris](https://www.efrei.fr/). Previously at [Université Paris Cité](https://u-paris.fr/en/).
-- 🔎 Looking for an internship from October 31, 2022 to March 31, 2023 (5 months).
 - 🌱 Learning about Mathematics and Cybersecurity.
 - ⛵ Relaxing with books, movies, tv shows and video games.
 
